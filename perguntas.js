@@ -1,6 +1,6 @@
 criaCartao(
     'supernatural',
-    'quem fez um pacto para salver dean da morte?',
+    'quem fez um pacto para salvar dean da morte?',
     'john wincherster'
 )
 
