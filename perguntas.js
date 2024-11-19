@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'supernatural',
+    'quem fez um pacto para salver dean da morte?',
+    'john wincherster'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'supernatural',
+    'qual era o ultimo selo para abrir a jaula de lucifer?',
+    'matar lilith'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'supernatural',
+    'qual arma o dean usou para matar azazel?',
+    'o colt'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'supernatural',
+    'quem absorveu as almas do purgatorio?',
+    'castiel'
 )
